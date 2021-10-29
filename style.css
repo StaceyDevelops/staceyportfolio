@@ -13,7 +13,8 @@ body header div,p {
 nav,{
   background-color: #E9E3E6;
 }
-
+ul{ 
+	text-align: center;}
 
 /*-----------sections---------*/
 section {
