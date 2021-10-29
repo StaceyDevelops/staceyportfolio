@@ -4,7 +4,7 @@ body{
   margin:0;
 }
 
-body header div  {
+body header div,p {
   background-color: #9A8F97);
   text-align: center;
   padding: 30px;
@@ -25,8 +25,9 @@ section {
 h1{
   color: black
 }
-h2,p,footer,h3 {
+h2,footer,h3 {
   text-align: center;
+	font-family:comic sans ms;
 }
 
 a{
