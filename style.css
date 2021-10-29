@@ -23,7 +23,8 @@ section {
 /*-----------text styling/links-------*/
 
 h1{
-  color: black
+  color: black;
+	font-family: cursive;
 }
 h2,footer,h3 {
   text-align: center;
